@@ -3,6 +3,7 @@
 .holder{
 	display:flex;
 	flex-wrap:wrap;
+	justify-content:space-between;
 }
 .div1, .div2 ,.div3{
 	height:40px;
