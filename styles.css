@@ -1,8 +1,8 @@
 
 /* Your CSS Code here. */
-.flex-cont{
+.holder{
 	display:flex;
-	
+	flex-wrap:wrap;
 }
 .div1, .div2 ,.div3{
 	height:40px;
